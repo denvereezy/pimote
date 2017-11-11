@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/denvereezy/pimote#readme",
   "dependancies": {
-    "serialport": "^6.0.4"
+    "serialport": "^6.0.4",
+    "express": "^4.15.3",
+    "body-parser": "^1.17.2"
   }
 }
